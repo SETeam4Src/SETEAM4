@@ -1,0 +1,475 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+<Reference URI="Login.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vcLmJ1QtOnjUb7y6CLK5femba01sxu2ToBJLfCSLMGk=</DigestValue>
+</Reference>
+<Reference URI="Testfile.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>x5wJAJjPgCBlEXkjmcz2RlsrEt8Q+LxEJd7eZ3sM1qw=</DigestValue>
+</Reference>
+<Reference URI="Testjsp.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>N9Jdk0oByARadnlIQdsCIUOd9bCriR8SeP39sJtj2jc=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fexcanvas.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oYOdPlhbN1E/nf/aTtFhwxSTsd2OksR3jO5wbJiN9sw=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fexcanvas.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kZCeFTh4JzDEq2MJynkpW/s7xLKPZI2agmHibd1NBro=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fjquery.jqplot.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Q1alT83XUxak+NW5NpfrADVZ/SWQtbDh8nD38N3WAbI=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fjquery.jqplot.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VOkdVbam7jt+re6vPGuPN1N2+fyzYbST7Wd6iKrW0WI=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fjquery.jqplot.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LrO4N6Tj7Lc95ahyzcXPBRa0eqmRUZ6SrOvmwXiyMxY=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fjquery.jqplot.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>by156DyOhzv1ycpIgZw7+FrANlmrNHZMoIV8YOCyPic=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fjquery.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e9gNBsAcA0DBuRWbm0oZfbiCyhjLrI6bmqAl5o+ZjUA=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fjquery.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rGQJ0tfrghTcTA1R6Xzg24TaLN0e9kSxQ1oDbcIHakI=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.BezierCurveRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NxaE8HB+XjTtvglK9gf32g0072dT24FAmLnYJup+Rro=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.BezierCurveRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>r40vSazeE3Di3yVl7zbEwNkQqvuzfB+IrXCjm+Q+/18=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.barRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jg5IcQjEgTo6ffeb0CY7QtUs17jB/FJesbGzFp1oWNk=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.barRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>z9EEvMEOEcTovKNaoyMc2jjhYFtWIMVlC0h8S+0ighM=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.blockRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Me9sLblz0N+sILxQ6Sspiu53W1rOkfkJFGpKurxpdmo=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.blockRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wtiQLs6ao11KiTlZkPtxXOGlg4yR/U10+Qeu2xKYEzc=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.bubbleRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UUwrsq0oNgojag7xD1zg4hgYCnW00g1ZmjGItLAo+p0=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.bubbleRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JoG47mHPT/IBDHZiiNNjO0EE1LBwChNGmyDZghCzuFo=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.canvasAxisLabelRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>278flATkaLBDBbMEWl+fJ4kXy97v2TYu3WniLsyuJAU=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.canvasAxisLabelRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>k7qGeM1LOCJ2YDlIfcBuI31oIXRPA7Ym6CDtwNLxsRc=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.canvasAxisTickRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tOAnSYbl588rSb2ZWSQxbPVJv8Bs5lIxmgeuaCtpXJE=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.canvasAxisTickRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c+rvaE7UEY2tSCj2xyqwltKOn0YpVA7w8GleC+1XyFQ=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.canvasOverlay.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g2YGDb6WCLsf1oFlri3wRfEHDhtLvMiC6zESlYk+jJ0=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.canvasOverlay.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5KidlYh5ngzyySmCNglxfFk5ZGCER/MwcURQXVMDQqA=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.canvasTextRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LnSocCbrgSfmvHdB2/8OmDrA4JMW9YvemFPn0CBOMVk=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.canvasTextRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jMFt+ROSZwMLT6qwNbGGh1MvBTSyvSRDV83JKt5ix9g=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.categoryAxisRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OVfnpQSOMkWdIuSoDVRYCLHm3GxnHQfbUTY6x3IsyyY=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.categoryAxisRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KZySzzYwazCYH9/5CxVuZkz0AnOAFKYV3LVbj1Hfgaw=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.ciParser.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yg9+PWBPhAsBXWI4rEPei0KL9iNZ8U2a5pI1YEYdkFU=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.ciParser.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rEVlhgAQ/biFDSR+m4kJwr1mrTaKQRCBWMNk5dqF3hg=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.cursor.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YdVzNuvFMkoFnUiFXi+x0Qrx9/IGzN4Ux57GD/6Uud4=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.cursor.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PYaMsEol5xJ1NSaPatO1O3yF79KtQQ9H2GlinRCQxE0=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.dateAxisRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KENwTmgoJWQdRJj8KyBnhT6QDbl0nzbvitdY2KZ758w=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.dateAxisRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>giHOyllIKIDbFyqZeFJtndKolKjJGCMtTd/omJiSSVs=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.donutRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hjguIAyq3tPhGyEI7/Ir3jCIZzC2S5aSG7xA7cjyIrQ=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.donutRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S7CynQ83pXkLEBIxTZra3rhkioS9bGzDv0EqybdDh6o=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.dragable.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lqgieD3jICiDjELEz523d6sAwGqh2nWhnhMtnP7otII=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.dragable.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>poyPMRwfi5Gy7qfJuYVxlR61wMnKOZcWkkNUgeLp3zw=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.enhancedLegendRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>i88zrYD0wMvOXaEvLTz4hDYMgsxZ9hcorzjB1xypS2E=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.enhancedLegendRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e9Cc8IaSdQYtIsAWiGXjWJXEPQpM2LuaZRNDksHGseg=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.funnelRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EnszGghaRLt/Q0FQOcqel9tEdbuWgTceyUkNVVuUGUY=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.funnelRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>h6RK3B4sC7O380HVNodJ0LDJyzH0nWznbpFuis67gqQ=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.highlighter.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ph3pFUTx9iG/ladBo2ezsabLjtZ2r60FceK60EbNbDM=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.highlighter.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ou1arpq+cPy39BcwYtbToUQmGt8zmt/dchOgdniE5ow=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.json2.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JhE8E6tBq4ee5nn2BOV8ntYrUMc0hgIdkaFjRIs78OU=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.json2.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8hTab40PnHF71r7vOQgDnAiA+cCgfh+jmRRS0UVLm9I=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.logAxisRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oc2MklZzvpHaky23hqZ74IdBuBv8m8qC6+OL8WxYISM=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.logAxisRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nNYDtC9H+CrIpz5f6uBJ/fhSxFkqmnI9Ko3o0eLL/7M=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.mekkoAxisRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yBTSHYY6KT6y80Sy7iepTF/bfZfuk5UMGlDFykfsLWY=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.mekkoAxisRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L6ZWPB+5JEaIcedHgU2KyRmrbZZjbsl3XgR+6j6ySmY=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.mekkoRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>V+8BrtrR2vjwckAHJazTciALZAp4yQxsPZFxXY3GOqE=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.mekkoRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZtjIQ85QLIhTf63LLYicppAUgYrH5MTsZE2gtb47ur4=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.meterGaugeRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e2kowMUa5BdwMaTqIbHlhArOyhJuV9ryQ2rOQ2rEtDY=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.meterGaugeRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kjuUV3dTpeApNmUfwK2/DGkJBJgdOz4K0J7l6Jg9hSA=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.mobile.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PobL9h4kFur0iKsGv1QIRobz46m6GgsoZVRgYauQv+w=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.mobile.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uufj4KCaToRusyCP1np1ZS43+nZqqT2/4c+6rMkAIU4=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.ohlcRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nghc8VrBbYh0XkipgreTk9moopYReOA84769HYMPRxc=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.ohlcRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MTZwNGqPnIjGhcZ6jsMnPcPVM9XO2qGI4CVvcffDVzs=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.pieRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4UKOMTpBvV5CyCkhUCSpgaLRP3kS4INrRthm6+5Lt+w=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.pieRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vm3MZXG+M/pLRLxH05lgrfp9/S+Ew095qSlN5IkfxvI=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.pointLabels.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RZ7LkJ9GqSZ26uNtVMN3seXVzT6ZT51kInYEd9jB9BY=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.pointLabels.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UO4WEkPY/R1bYwAMNeSg7rsiRUaskdSymGphRb1Ly4Y=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.pyramidAxisRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QTUMa/djpBEsh2+JJQ6Q3CCYRNAOpHZCBy8qID7Uo78=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.pyramidAxisRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nygzdb5Uw5vr31yaSKZkPquhhoOLGuD+yLcb2ViyJHo=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.pyramidGridRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>P3WYS68zEpkkVnDdqI15+9Jd0Szm987RcUaWsS3HkhQ=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.pyramidGridRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5uIxeAci0mojdW7jOrWLmDhEE1oAvNiJVtdvBZOwBw0=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.pyramidRenderer.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gh1TQ2JkBSFYtKwLZHzjO5wYeOo5J2hbciEFFXMdFpU=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.pyramidRenderer.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e5L9Y4b3kgsDqfQykXHy1M71plKWi/iWwFbvipqFOD4=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.trendline.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AKpuw7p1YOWsY/+gdsyNeAzLxj6CBJa2LN+DiDB12Kc=</DigestValue>
+</Reference>
+<Reference URI="chart%2Fplugins%2Fjqplot.trendline.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>syqCLdbQmLAk5p9JOkqssyMsymsdDhvuzByt9AvGB+Q=</DigestValue>
+</Reference>
+<Reference URI="config.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lO4XYURzFzmDl/07yWpO0U1hcmmoiIeHI3TY7OynFK8=</DigestValue>
+</Reference>
+<Reference URI="css%2Fimages%2Fajax-loader.gif">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>atFZeQWHru0uJZg1bqZZ/jJ8mZdvckOJmwEWlbmtUm8=</DigestValue>
+</Reference>
+<Reference URI="css%2Fimages%2Ficons-18-black.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YkloCw4iOzmFvDlLV2Pcmdkx/LYvMmxVJldjvs8XHjs=</DigestValue>
+</Reference>
+<Reference URI="css%2Fimages%2Ficons-18-white.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rfh6AUoBhUrc5DNWD/6xZFcAUrnAtQ84kV+DONk81bo=</DigestValue>
+</Reference>
+<Reference URI="css%2Fimages%2Ficons-36-black.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CDwe2XTGtNK+OrFVpNR/wjcfe2UiQDgqBOFT83YFSiU=</DigestValue>
+</Reference>
+<Reference URI="css%2Fimages%2Ficons-36-white.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6+18cXLgNxnQ4htI9uvF5UNE7bjDVDwlywa5m1R11DQ=</DigestValue>
+</Reference>
+<Reference URI="css%2Fjqm-docs.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bHJ1XHdpZMNiWOrjCEVrVHOMSRugvNMIR0qMXRbpz7o=</DigestValue>
+</Reference>
+<Reference URI="css%2Fjquery.mobile-1.0.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eih7Lsnk6ecMwA9hkvY5Za78TRZtbxONBCO8VpdROrA=</DigestValue>
+</Reference>
+<Reference URI="css%2Fjquery.mobile-1.3.2.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7gIa62h0lipubOV/M9KqIko5g+2iNfi3QIRHHJK3KrQ=</DigestValue>
+</Reference>
+<Reference URI="css%2Fjquery.mobile.structure-1.3.2.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ltwods9Mn1dYj+i5XD0dc00bEpY5RkEFkYVva+vXlk0=</DigestValue>
+</Reference>
+<Reference URI="css%2Fjquery.mobile.theme-1.3.2.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QwFf65ufHMPHMzhxJU22SBoG6/MRQMlva7EErRy0s5M=</DigestValue>
+</Reference>
+<Reference URI="css%2Fstyle.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wPBS488c+YvsWaCAwLTbGCrA021qWPZpcXaI/Z028Ro=</DigestValue>
+</Reference>
+<Reference URI="icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1d0oEZHqPn+QzNzGIHwj9ODby6x9ggFs9uOsav6jPNs=</DigestValue>
+</Reference>
+<Reference URI="img%2Fmain_img.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Bk4D+4wJZK1IEleMx8z+g4VfNH8THO4bz0GsmlvOJFc=</DigestValue>
+</Reference>
+<Reference URI="index.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2EXyKhIft850V7BR26Mc883CXqBjCuADp7AKuNCDjM0=</DigestValue>
+</Reference>
+<Reference URI="js%2Fcustom-scripting.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>F28nIj30t4vr0Qy6crbNicu2C7r/HkvmHhxrC0HygTQ=</DigestValue>
+</Reference>
+<Reference URI="js%2Fjqm-docs.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3zRkesuGnwGJKJUeexf7oho4PNOfNGoCE/KVOZ6wxTI=</DigestValue>
+</Reference>
+<Reference URI="js%2Fjquery-1.6.4.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lR1rrjnrFy9XqIvWhvepIc8GD9IfWWSPDSC2qPmPxaU=</DigestValue>
+</Reference>
+<Reference URI="js%2Fjquery-1.9.1.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Whd+Y+t5nMfzcIOcz7ptaFby1dz44jc0vQt9JWdqIxg=</DigestValue>
+</Reference>
+<Reference URI="js%2Fjquery.mobile-1.0.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RdcekFIh8mLNL68LUiK/z2s1MORREwlqxRb7XsfTiWU=</DigestValue>
+</Reference>
+<Reference URI="js%2Fjquery.mobile-1.3.2.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kjMCBReH6/SD9RMSA88FsAadtCS1fK8flX4p/LlAk4w=</DigestValue>
+</Reference>
+<Reference URI="js%2Fjsapi.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mIFzfJ1NddDKrORo2vT6i0xAkCQXfCsiQnm0QlqwCHk=</DigestValue>
+</Reference>
+<Reference URI="js%2Fmain.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>T1h54EGXwcl5nuQdlp6RG2iFeZlAV/kIUkhgvpYOBGY=</DigestValue>
+</Reference>
+<Reference URI="js%2FuserView.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aEygA5eNa7ZiZsV52S7JMNswjQfnBSmT7CZN+lNwCoA=</DigestValue>
+</Reference>
+<Reference URI="messageLog.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BMUItEFFiUPlTU1gKt2eOzFqhF5q9dSKtdiQtnwUzLs=</DigestValue>
+</Reference>
+<Reference URI="monitor.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Xjdwlw7l2rPfY9AoOh8xWxzUGmyAIdNDVTtUpBx9phU=</DigestValue>
+</Reference>
+<Reference URI="register.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nokVRVCj/XoCBr9MvKQODu0hde5Rn35vp/XtFfTNSss=</DigestValue>
+</Reference>
+<Reference URI="register%2FregInfo.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YHrSeEavBaw7wl8U4SVWvl1OYcQg3uINZsIMvwdklSo=</DigestValue>
+</Reference>
+<Reference URI="register%2FregReward.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GvicbSkVrknzhROzbNK+838n5CPXpgHrxFV/Wk3Ly2o=</DigestValue>
+</Reference>
+<Reference URI="register%2FregTime.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>B2zrKEWp5rigz2mMUJkVm2nl83csIVMQhGeNMkC8meQ=</DigestValue>
+</Reference>
+<Reference URI="signUp.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1uAVnFNddWmEii3t0NHApfGV8WQg1OhQgF8QkDTbpZI=</DigestValue>
+</Reference>
+<Reference URI="version.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MPl0zl/4pJM1CEzTWOGty3/730AfpxtZpYxDSagK0WI=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lpo8tUDs054eLlBQXiDPVDVKfw30ZZdtkRs1jd7H5K8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+ZRfcTSvJ6223+470eA8NGHa+QKHb323EIA65FZTaGY1ZIdI88hBv1PTR7EmJJoHdNs9Fr/vHnSA4
+Yh+0rckHwL8yHYPuYG1tqk6G1wyCRs0gMsW7BAG42cJk1FKI0WI7c8THsyi91TB2XBLL9kbw9Q+S
+K2rTikBWMQYSTcu4rFiJJBvWNpUGk21g52lCtHpZ5dPc4fUCw+ysV34I/ufivwtOC+Np+fA5YyP+
+pNPYemj7n8JrhyHR9kYf/N1/Iy2KUGesBsio5rT2zTYTrRzj+797nfkqWakWMoZrkCxUNE73PMoC
+uHiQHv+QWmGWznukcUSzW7rFm8PCg0zudSbTTA==
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIDkzCCAnugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBsDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xDzANBgNVBAsMBk1vYmlsZTEgMB4GA1UEAwwXU2Ftc3VuZyBBdXRob3IgQ0Eg
+Q2xhc3MxIDAeBgkqhkiG9w0BCQEWEXRpemVuQHNhbXN1bmcuY29tMB4XDTE1MTEyNzAyMDAzM1oX
+DTE2MTEyNjAyMDAzM1owTTEJMAcGA1UEBhMAMQkwBwYDVQQIEwAxCTAHBgNVBAcTADEJMAcGA1UE
+ChMAMQkwBwYDVQQLEwAxFDASBgNVBAMMC1RpemVuX3N1bnp1MIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAyqBAN5u7/bXgcx3QIMrzW4rs/R5teh7CCJCYkLTE5HF6BX32bGF2hWlyRMwM
+Ro0cTaslwu4Whx+VHeDxY0ggLXeNJcyRdtD19hg5nx21xTC7zlW30WunaJDbkoycmP3ayJZt6E5g
+rwSX3qlZt21LjgPIbeX1v9vKbxlovqN39+qsetnvnsespjgURvvjzQKERcCtgbs3J0suJ1yNQlRs
+luDfkB5gtGgYevltsW8xeu8DV2RMtkcDE/LAQL8/Ut6qhECJUg6wGZaLq+Od+mD2VfIBrVlyLxT8
+v8tc6g2xnGPhjMzT57yxpYlDRwJI8Ty9cCIeFhsdTK3sxqof8vD7pQIDAQABoxowGDAJBgNVHRME
+AjAAMAsGA1UdDwQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEAbzG4S4izPMe9VyVfFWIWg4Tsit5T
+q1C9ReMZjfhb6vDcSCY47djl7CbuHdsvdFIPdDJ6TZg7UG/ypqwj0JkhqXDfHCJDEk5Na3FjvT/Q
+PK9gws5yb/cQBDQGDF1Dn9dN8SwipOqSkdCot15qIw/FJiEe9szNgWo1ExP/ZW+fLn8vXNRemrpM
+Sg/nVvJhsHmCQcNU+TLzdobbxbT9hEnkXu6KZH9DS/i9aVnEQyopR88pkL0jGLTim3q3/7/UFgtC
+92T1cTV7N/tPXsm+JDsjRNVT66aYLnUAGON9MWgMuZF+fn41MDlRHZ3Rqza9xCk5byhUZv0bKjIo
+YxtgB3p+GQ==
+</X509Certificate>
+<X509Certificate>
+MIIDmzCCAoOgAwIBAgICYygwDQYJKoZIhvcNAQELBQAwXjEaMBgGA1UECgwRVGl6ZW4gQXNzb2Np
+YXRpb24xGjAYBgNVBAsMEVRpemVuIEFzc29jaWF0aW9uMSQwIgYDVQQDDBtUaXplbiBEZXZlbG9w
+ZXJzIFJvb3QgQ2xhc3MwHhcNMTMxMjMwMTUwNTU4WhcNMjgxMjI2MTUwNTU4WjCBsDELMAkGA1UE
+BhMCS1IxFDASBgNVBAgMC1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ft
+c3VuZyBFbGVjdHJvbmljcyBDby4sIEx0ZC4xDzANBgNVBAsMBk1vYmlsZTEgMB4GA1UEAwwXU2Ft
+c3VuZyBBdXRob3IgQ0EgQ2xhc3MxIDAeBgkqhkiG9w0BCQEWEXRpemVuQHNhbXN1bmcuY29tMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+tRBgnKJs8j7BFg8/UftqbqTCYBV3Jrg1vK
+YvEuoTfntYz2uT2SO67raiCsZBAYvJnP54ExkdV++UgB7BDGniWz7bA1pYKak5kNK5jtLQt2DmZX
+3qgaLjMyoAz+293CxrBQO4h8NaTQGsO/WLpeQq2Y1ZEnHsq+EUn90H6Vm0HNW+KUayGPYdey+QSW
+iiv+L++TSuHrw0b16GYn83emiTnKTCmwpSOZ712Gy9kccl46/K4C8skEDVZjTk9s7r/MN9ZNZsqR
+brT/3AYcrF4ao8ipwlHK91WJBXXaiQICvp/dNfCSDWpTWy7z4XmgP16pSLnfgZlwEwWfiaavHRNM
+mwIDAQABoxAwDjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQB/ZlNMTzlIHqC3mFSq
+ptuQDZG96XnYqiWsbYkqGgNhcq6c/B3TQsg7Z8cxXY/eqJQDN5gbrIpiUugMRdSOpAEcxF3lwd5k
+oOzVLn+3I7x1k6Q4pZdi1fJx+1XjCtrQgPqtvwM77urNqIA1MSG6HUPxYAKkRKjWPsg346E8S/c1
+Hq4UVBYEFcDC467uvWtYjxjEVQTmNUaUcQLU9P6VEL4QW+t7V54IN6IJDr9HoOGSgApxIBDDU46b
+MUwl+yK0GPvhrviwfVPkfmys1hn5N+gWectQVpBB1gbfy2KlLCCvW/Kl1VmtYz1kWwTyG8bwcjE0
+GLkwKNN5lPod+FmMhuW9
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>
